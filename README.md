@@ -1,0 +1,1 @@
+# app_nfc_qrcode_android
